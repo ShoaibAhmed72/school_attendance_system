@@ -58,8 +58,8 @@ A simple and user-friendly Java-based School Attendance System built using **Swi
 ## 🔐 Default Login Credentials (Optional)
 
 ```txt
-Username: admin
-Password: admin123
+Username: shoaib
+Password: shoaib -- for admin account or signup by yourself in any type of account.
 ```
 
 *(Change credentials in the database as needed.)*
