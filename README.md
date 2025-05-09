@@ -29,7 +29,7 @@ A simple and user-friendly Java-based School Attendance System built using **Swi
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/school-attendance-system.git
+   git clone [https://github.com/yourusername/school-attendance-system.git](https://github.com/ShoaibAhmed72/school_attendance_system/tree/main)
    cd school-attendance-system
    ```
 
